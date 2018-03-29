@@ -14,6 +14,7 @@ buildscript {
 //    baseName = 'spring-reactive-cassandra'
 //}
 
+
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
